@@ -1,24 +1,106 @@
+<h1 align="center">Hi 👋, I'm Sadhvika Adireddy</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sadhvika-adireddy) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ADIREDDY SADHVIKA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadhvireddy198@gmail.com) 
+<h3 align="center">
+Aspiring Software Engineer | B.Sc. Computer Science Student | Python Developer
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sadhvika2006-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sadhvika2006-dot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sadhvika2006-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Passionate about building real-world software, learning new technologies, and solving coding challenges.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sadhvika2006-dot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sadhvika2006-dot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sadhvika2006-dot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sadhvika2006-dot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+- 🎓 Final-year B.Sc. Computer Science Student
+- 💻 Interested in Software Development, Artificial Intelligence, and Full-Stack Development
+- 🌱 Currently learning Python, Java, MERN Stack, and Data Structures & Algorithms
+- 🚀 Building real-world projects to strengthen my development skills
+- 🎯 Looking for Software Engineering opportunities
+
+---
+
+## 🚀 Current Projects
+
+- 🤖 AI Resume Builder
+- 🛒 Smart Shopping Cart
+- 💰 Expense Tracker
+- 🌐 Portfolio Website *(Coming Soon)*
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadhvika-adireddy)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadhvireddy198@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sadhvika2006-dot&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=sadhvika2006-dot&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhvika2006-dot&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Sadhvika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadhvika2006-dot&theme=tokyo-night)](https://github.com/sadhvika2006-dot)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sadhvika2006-dot&theme=algolia&no-frame=true&margin-w=8)
+
+---
+
+## 💻 Coding Profiles
+
+> Update these links after creating your profiles.
+
+- 💛 **LeetCode:** https://leetcode.com/your_username
+- 🍛 **CodeChef:** https://www.codechef.com/users/your_username
+- ⚔️ **Codeforces:** https://codeforces.com/profile/your_username
+
+---
+
+## 📫 Contact
+
+📧 **Email:** sadhvireddy198@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/sadhvika-adireddy
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you like my projects, don't forget to ⭐ my repositories and connect with me.
+
+Happy Coding! 🚀
