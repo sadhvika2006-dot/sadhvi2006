@@ -75,32 +75,32 @@ Passionate about building real-world software, learning new technologies, and so
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sadhvika2006-dot&theme=algolia&no-frame=true&margin-w=8)
 
 ---
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 > Update these links after creating your profiles.
 
-- 💛 **LeetCode:** https://leetcode.com/your_username
-- 🍛 **CodeChef:** https://www.codechef.com/users/your_username
-- ⚔️ **Codeforces:** https://codeforces.com/profile/your_username
+-  **LeetCode:** https://leetcode.com/your_username
+-  **CodeChef:** https://www.codechef.com/users/your_username
+-  **Codeforces:** https://codeforces.com/profile/your_username
 
 ---
 
-## 📫 Contact
+##  Contact
 
-📧 **Email:** sadhvireddy198@gmail.com
+ **Email:** sadhvireddy198@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/sadhvika-adireddy
+ **LinkedIn:** https://linkedin.com/in/sadhvika-adireddy
 
 ---
 
-## ⭐ Thanks for Visiting!
+##  Thanks for Visiting!
 
 If you like my projects, don't forget to ⭐ my repositories and connect with me.
 
-Happy Coding! 🚀
+Happy Coding! 
