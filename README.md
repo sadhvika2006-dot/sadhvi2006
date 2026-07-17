@@ -14,26 +14,26 @@ Passionate about building real-world software, learning new technologies, and so
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 Final-year B.Sc. Computer Science Student
-- 💻 Interested in Software Development, Artificial Intelligence, and Full-Stack Development
-- 🌱 Currently learning Python, Java, MERN Stack, and Data Structures & Algorithms
-- 🚀 Building real-world projects to strengthen my development skills
-- 🎯 Looking for Software Engineering opportunities
-
----
-
-## 🚀 Current Projects
-
-- 🤖 AI Resume Builder
-- 🛒 Smart Shopping Cart
-- 💰 Expense Tracker
-- 🌐 Portfolio Website *(Coming Soon)*
+-  Final-year B.Sc. Computer Science Student
+-  Interested in Software Development, Artificial Intelligence, and Full-Stack Development
+-  Currently learning Python, Java, MERN Stack, and Data Structures & Algorithms
+-  Building real-world projects to strengthen my development skills
+-  Looking for Software Engineering opportunities
 
 ---
 
-## 🌐 Connect With Me
+##  Current Projects
+
+-  AI Resume Builder
+-  Smart Shopping Cart
+-  Expense Tracker
+-  Portfolio Website *(Coming Soon)*
+
+---
+
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadhvika-adireddy)
 
@@ -41,7 +41,7 @@ Passionate about building real-world software, learning new technologies, and so
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
