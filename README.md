@@ -59,7 +59,7 @@ Passionate about building real-world software, learning new technologies, and so
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sadhvika2006-dot&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -69,7 +69,7 @@ Passionate about building real-world software, learning new technologies, and so
 
 ---
 
-## 📈 GitHub Activity Graph
+##  GitHub Activity Graph
 
 [![Sadhvika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadhvika2006-dot&theme=tokyo-night)](https://github.com/sadhvika2006-dot)
 
