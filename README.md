@@ -33,7 +33,7 @@ Passionate about building real-world software, learning new technologies, and so
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadhvika-adireddy)
 
@@ -41,7 +41,7 @@ Passionate about building real-world software, learning new technologies, and so
 
 ---
 
-#  Tech Stack
+#  💻Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -59,7 +59,7 @@ Passionate about building real-world software, learning new technologies, and so
 
 ---
 
-#  GitHub Stats
+#  📊GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sadhvika2006-dot&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -69,13 +69,13 @@ Passionate about building real-world software, learning new technologies, and so
 
 ---
 
-##  GitHub Activity Graph
+##  📈GitHub Activity Graph
 
 [![Sadhvika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadhvika2006-dot&theme=tokyo-night)](https://github.com/sadhvika2006-dot)
 
 ---
 
-##  GitHub Trophies
+##  🏆GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sadhvika2006-dot&theme=algolia&no-frame=true&margin-w=8)
 
